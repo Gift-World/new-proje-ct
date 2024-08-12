@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "Maasai Mara National Reserve",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "Famous for the Great Migration and rich wildlife, including lions, elephants, and cheetahs."
+  },
+  {
+    "id": 2,
+    "name": "Santorini",
+    "country": "Greece",
+    "visited": false,
+    "notes": "Known for its stunning sunsets, white-washed buildings, and crystal-clear waters."
+  },
+  {
+    "id": 3,
+    "name": "Diani Beach",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "A beautiful white-sand beach with clear waters, perfect for snorkeling and diving."
+  },
+  {
+    "id": 4,
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "visited": false,
+    "notes": "An ancient Incan city nestled in the Andes mountains, known for its archaeological significance."
+  },
+  {
+    "id": 5,
+    "name": "Great Wall of China",
+    "country": "China",
+    "visited": false,
+    "notes": "An ancient world wonder, stretching over 13,000 miles with breathtaking views."
+  },
+  {
+    "id": 6,
+    "name": "Mount Kenya",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "Africa's second-highest peak, offering scenic trekking routes and stunning views."
+  },
+  {
+    "id": 7,
+    "name": "Sydney Opera House",
+    "country": "Australia",
+    "visited": false,
+    "notes": "A world-renowned architectural marvel, located in the Sydney Harbour."
+  },
+  {
+    "id": 8,
+    "name": "Amboseli National Park",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "Known for its large elephant herds and breathtaking views of Mount Kilimanjaro."
+  },
+  {
+    "id": 9,
+    "name": "Eiffel Tower",
+    "country": "France",
+    "visited": false,
+    "notes": "An iconic symbol of Paris, offering stunning views of the city from its observation decks."
+  },
+  {
+    "id": 10,
+    "name": "Lamu Island",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "A UNESCO World Heritage Site with rich Swahili culture and historic architecture."
+  },
+  {
+    "id": 11,
+    "name": "Grand Canyon",
+    "country": "United States",
+    "visited": false,
+    "notes": "A natural wonder, known for its immense size and colorful landscape carved by the Colorado River."
+  },
+  {
+    "id": 12,
+    "name": "Taj Mahal",
+    "country": "India",
+    "visited": false,
+    "notes": "A UNESCO World Heritage Site and symbol of love, known for its stunning white marble architecture."
+  },
+  {
+    "id": 13,
+    "name": "Victoria Falls",
+    "country": "Zimbabwe/Zambia",
+    "visited": false,
+    "notes": "One of the largest and most famous waterfalls in the world, located on the Zambezi River."
+  },
+  {
+    "id": 14,
+    "name": "Pyramids of Giza",
+    "country": "Egypt",
+    "visited": false,
+    "notes": "Ancient wonders of the world, located near Cairo, known for their historical significance and grandeur."
+  },
+  {
+    "id": 15,
+    "name": "Banff National Park",
+    "country": "Canada",
+    "visited": false,
+    "notes": "A beautiful national park in the Canadian Rockies, known for its stunning lakes, mountains, and wildlife."
+  },
+
+  {
+    "id": 16,
+    "name": "Lake Nakuru National Park",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "Famous for its flamingo population and diverse bird species in a beautiful lakeside setting."
+  },
+  {
+    "id": 17,
+    "name": "Samburu National Reserve",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "Home to unique wildlife species like the Grevy's zebra, reticulated giraffe, and Somali ostrich."
+  },
+  {
+    "id": 18,
+    "name": "Hell's Gate National Park",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "Offers hiking and rock climbing opportunities, along with geothermal features like hot springs."
+  },
+  {
+    "id": 19,
+    "name": "Tsavo National Park",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "One of the largest national parks in the world, known for its red elephants and diverse landscapes."
+  },
+  {
+    "id": 20,
+    "name": "Nairobi National Park",
+    "country": "Kenya",
+    "visited": false,
+    "notes": "A unique park located just outside Nairobi, home to rhinos, lions, and giraffes, with the city skyline in the background."
+  }
+]
